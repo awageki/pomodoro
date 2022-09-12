@@ -1,4 +1,8 @@
 class TimerBase
-    def run
-    end
+  def initialize(minutes:)
+  end
+  
+  def run
+        
+  end
 end
